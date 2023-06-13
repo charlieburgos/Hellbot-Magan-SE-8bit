@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Magna SE/Hellbot-Magna-SE-8bit-1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hellbot-Magna-SE-8bit-1"
+	}
+}

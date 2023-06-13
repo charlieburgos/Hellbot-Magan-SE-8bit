@@ -1,0 +1,1 @@
+{"type": "library", "name": "Servo", "version": "1.1.2-OD", "spec": {"owner": null, "id": null, "name": "STM32_Servo_OpenDrain", "requirements": null, "uri": "https://github.com/tpruvot/STM32_Servo_OpenDrain/archive/2.0.zip"}}

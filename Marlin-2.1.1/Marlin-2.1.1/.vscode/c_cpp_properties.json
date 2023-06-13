@@ -1,0 +1,56 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "D:/Marlin-2.1.1/Marlin-2.1.1/Marlin",
+                "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/variants/sanguino",
+                "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "D:/Marlin-2.1.1/Marlin-2.1.1/Marlin",
+                    "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/variants/sanguino",
+                    "C:/Users/CBS Impresiones/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60108",
+                "ARDUINO_AVR_SANGUINO",
+                "__MARLIN_FIRMWARE__",
+                "NDEBUG",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega1284P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/CBS Impresiones/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega1284p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
